@@ -18,3 +18,11 @@ Invoke-PSArraySpeedTest
 ```
 Invoke-PSArraySpeedTest -ArrayType All
 ```
+
+## Motivation
+
+After watching the video below by user `Adeel Automates` discussing dotnet arrays in PowerShell, I was inspired to test the results.
+This is a great video showing off how fast dotnet arrays are in PowerShell, but see if you can spot how to make his example more efficient based on your testing of various array creation speeds using my `InvokePSArraySpeedTest` function herein.
+
+## Link to related third party video:
+[https://youtu.be/IKMoYV7dR-A?si=EHky4bEx0Mo4B1Lp](https://youtu.be/IKMoYV7dR-A?si=EHky4bEx0Mo4B1Lp)
