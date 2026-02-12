@@ -2,8 +2,7 @@
 Test the speed of creating various array types in PowerShell.
 
 By default this script gathers a listing of the `~/Documents` folder.
-Then it creates an array of the desired type and returns the elapsed
-time in Milliseconds that the operating took to complete.
+Then it creates an array of the desired type and returns the elapsed time in Milliseconds that the operation took to complete.
 
 
 ## EXAMPLE
